@@ -16,3 +16,7 @@ How to make it work?
 1. Unzip the archive
 2. Run the CmdLine.exe
 3. Have fun and test things!
+
+Open and close immediately ? 
+
+https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=9.0.0&arch=x64&rid=win-x64&os=win10
